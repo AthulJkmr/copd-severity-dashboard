@@ -51,13 +51,16 @@ Evaluated on a stratified 80/20 train-test split of 101 patient records.
 
 ```
 copd-severity-dashboard/
-├── app.py                              # Main Dash application
-├── copd_severity_predictor_v1_0.joblib # Trained model (joblib)
-├── requirements.txt                    # Python dependencies
-├── data/
-│   ├── dataset.csv                     # Clinical patient dataset (101 records, 24 features)
-│   └── WHO.csv                         # WHO global COPD statistics
-└── README.md
+├── app.py
+├── Procfile
+├── requirements.txt
+├── README.md
+├── copd_severity_predictor_v1_0.joblib
+├── .python-version
+├── runtime.txt
+└── data/
+    ├── dataset.csv
+    └── WHO.csv
 ```
 
 ---
