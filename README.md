@@ -3,7 +3,7 @@
 An interactive analytics dashboard for predicting and visualising COPD (Chronic Obstructive Pulmonary Disease) severity using machine learning, built with Python and Plotly Dash.
 
 ## Live Demo
-> Deploy to Render or Railway (free tier) and paste the URL here.
+https://copd-severity-dashboard.onrender.com
 
 ---
 
